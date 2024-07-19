@@ -10,19 +10,21 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="تفاصيل الشركة"
+        android:text="المطور"
         android:textSize="18sp"
         android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="هنا يمكنك وضع تفاصيل الشركة" />
+        android:text="حقوق الطبع والنشر لدي المطور BlackTornado. برنامجنا يتوافق مع قوانين حقوق النشر الرقمية وفقًا لقانون الألفية الجديدة لحقوق طبع ونشر المواد الرقمية. نحن لا نملك حقوق التأليف والنشر لهذا الكتاب. نحن نشارك هذا للأغراض التعليمية فقط ونشجع زوارنا بشدة على شراء الكتب الأصلية. إذا أراد شخص لديه حقوق الطبع والنشر إزالة هذا الكتاب وفقًا لقواعد قانون الألفية الجديدة لحقوق طبع ونشر المواد الرقمية، فيرجى الاتصال بنا على الفور عبر البريد الإلكتروني: ahmedsaeedfarouk.bt@gmail.com.
+
+" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="رابط الدعم"
+        android:text="معلومات التطبيق"
         android:textSize="18sp"
         android:textStyle="bold"
         android:layout_marginTop="16dp" />
@@ -30,5 +32,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="هنا يمكنك وضع رابط الدعم" />
+        android:text="جميع حقوق الطبع والنشر محفوظة © عصير الكتب للنشر والتوزيع" />
 </LinearLayout>

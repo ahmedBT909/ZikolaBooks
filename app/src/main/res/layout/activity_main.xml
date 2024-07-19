@@ -136,13 +136,16 @@
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
-<!--    <Button-->
-<!--        android:id="@+id/btn_info"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginTop="10dp"-->
-<!--        android:text="معلومات"-->
-<!--        android:background="@drawable/button_background"-->
-<!--        android:textColor="@color/white"/>-->
+    <Button
+        android:id="@+id/btn_info"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_background"
+        android:text="معلومات"
+        android:layout_gravity="center"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/white" />
+
 </LinearLayout>
 </ScrollView>
