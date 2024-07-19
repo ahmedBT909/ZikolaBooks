@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100283796069",
+    "project_id": "zikolabooks",
+    "storage_bucket": "zikolabooks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100283796069:android:85c9ca5d3af3a9b0ba148c",
+        "android_client_info": {
+          "package_name": "com.zikolabooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznBCe954iyxseIs1w3DZ9j95mJCjAIvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
