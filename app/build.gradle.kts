@@ -57,6 +57,7 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation ("com.github.mhiew:android-pdf-viewer:3.2.0-beta.3")
     implementation ("androidx.appcompat:appcompat:1.3.1")
+    implementation ("com.startapp:inapp-sdk:5.+")
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))

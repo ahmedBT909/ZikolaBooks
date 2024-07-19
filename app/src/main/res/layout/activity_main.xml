@@ -12,6 +12,13 @@
     tools:context=".MainActivity"
     >
 
+    <com.startapp.sdk.ads.banner.Banner
+        android:id="@+id/startAppBanner1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+
     <androidx.cardview.widget.CardView
         android:id="@+id/card_view_book1"
         android:layout_width="match_parent"
@@ -147,5 +154,11 @@
         android:layout_marginBottom="5dp"
         android:textColor="@color/white" />
 
+    <com.startapp.sdk.ads.banner.Banner
+        android:id="@+id/startAppBanner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
 </LinearLayout>
 </ScrollView>
